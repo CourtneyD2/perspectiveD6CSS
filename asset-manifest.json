@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/perspectiveD6CSS/static/css/main.0444b3e4.chunk.css",
+    "main.js": "/perspectiveD6CSS/static/js/main.b31920c9.chunk.js",
+    "main.js.map": "/perspectiveD6CSS/static/js/main.b31920c9.chunk.js.map",
+    "runtime-main.js": "/perspectiveD6CSS/static/js/runtime-main.8f4a6219.js",
+    "runtime-main.js.map": "/perspectiveD6CSS/static/js/runtime-main.8f4a6219.js.map",
+    "static/js/2.a2c9c40a.chunk.js": "/perspectiveD6CSS/static/js/2.a2c9c40a.chunk.js",
+    "static/js/2.a2c9c40a.chunk.js.map": "/perspectiveD6CSS/static/js/2.a2c9c40a.chunk.js.map",
+    "static/js/3.bf2a0577.chunk.js": "/perspectiveD6CSS/static/js/3.bf2a0577.chunk.js",
+    "static/js/3.bf2a0577.chunk.js.map": "/perspectiveD6CSS/static/js/3.bf2a0577.chunk.js.map",
+    "index.html": "/perspectiveD6CSS/index.html",
+    "static/css/main.0444b3e4.chunk.css.map": "/perspectiveD6CSS/static/css/main.0444b3e4.chunk.css.map",
+    "static/js/2.a2c9c40a.chunk.js.LICENSE.txt": "/perspectiveD6CSS/static/js/2.a2c9c40a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f4a6219.js",
+    "static/js/2.a2c9c40a.chunk.js",
+    "static/css/main.0444b3e4.chunk.css",
+    "static/js/main.b31920c9.chunk.js"
+  ]
+}
